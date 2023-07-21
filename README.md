@@ -7,3 +7,4 @@
 - Скаичаем репозиторий;
 - Разворачиваем в браузере html файл.
 
+### Deploy: https://amo-crm-timer-two.vercel.app/
